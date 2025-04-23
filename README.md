@@ -2,7 +2,7 @@
 
 This is the working template/example of the LTC2208 ADC module for DIY HF receiver/transceiver.
 
-**Use only as template or for testing purposes**
+**Use only as template or for testing purposes** </ br></ br>
 **!!! Project is lost so I can't edit it, but transformer on the picture and in gerber has a wrong rotation!!!**
 
 This is the almost first PCB made by me and the purpose of the board is just to create cheap and simple ADC module for my test transceiver based on the Xilinx QMTech board without spending alot of time. It has non optimal design. 
