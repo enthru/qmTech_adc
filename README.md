@@ -12,7 +12,7 @@ RD/RE - use 0 resistor to disable or enable randomizer.
 
 With my project for QMTech module it has not good IMD3 DR for this ADC - around 70dbFS, I think it because of traces (designed for LVDS mode) on the QMTech module,
 but also can be partially caused by design of this ADC board.
-<br>
+<br><br>
 Github for Xilinx bitstream - https://github.com/enthru/redQmtech_notes
 <br>
 Some history of the project - https://enthru.net/?tag=qmtech
