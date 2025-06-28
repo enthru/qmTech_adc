@@ -2,7 +2,7 @@
 
 LTC2208 ADC module for DIY HF receiver/transceiver.
 
-**I'm not an electronics/rf proffesional so design is non optimal, has a space to improve e.t.c.**
+**I'm not an electronics/rf proffesional so design is non optimal, has a space to improve e.t.c.**<br>
 <br>
 It has LPF in the input- cutoff frequency is around 60MHz. 
 <br>
