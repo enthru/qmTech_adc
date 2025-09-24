@@ -1,6 +1,6 @@
 # redQmtech_notes_adc
 
-# Main project sweitched to the LVDS bus board which is not in github, use easyeda link from bitstream project
+# Main project switched to the LVDS bus board which is not in github, use easyeda link from bitstream project
 
 LTC2208 ADC module for DIY HF receiver/transceiver.
 
